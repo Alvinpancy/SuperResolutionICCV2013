@@ -1,0 +1,14 @@
+1 baboon.bmp
+2 barbara.bmp
+3 bridge.bmp
+4 coastguard.bmp
+5 comic.bmp
+6 face.bmp
+7 flowers.bmp
+8 foreman.bmp
+9 lenna.bmp
+10 man.bmp
+11 monarch.bmp
+12 pepper.bmp
+13 ppt3.bmp
+14 zebra.bmp
